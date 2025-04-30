@@ -1,0 +1,40 @@
+
+(Remote)
+
+How to transfer files between a PC machine and your own machine, I talked about these systems that are used to send files, for example:
+
+
+
+https://anonfile.la/
+
+
+
+https://wetransfer.com/
+
+
+https://www.sendspace.com/
+
+
+Working well:
+
+
+
+
+ https://www.transfernow.net/
+
+
+
+
+
+
+
+
+-------------------------------------------
+
+Top para passar informações via textos e links de sua maquina para a máquina do alvo
+
+https://pad.riseup.net/
+
+Apaga sozinho depois de 60 dias e não grava IPS
+
+
